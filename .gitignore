@@ -12,3 +12,7 @@ wheels/
 
 db/
 db/**
+
+persistence/*.db
+persistence/*.sqlite
+persistence/*.db-*
